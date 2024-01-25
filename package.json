@@ -1,0 +1,6 @@
+{
+  "name": "bun-html-minify",
+  "dependencies": {
+    "@minify-html/node": "^0.15.0"
+  }
+}
